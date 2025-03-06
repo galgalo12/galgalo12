@@ -12,7 +12,6 @@ I graduate from univerity of washington with a profound interest in technology a
 My journey in Information Technology has ignited a strong passion for cybersecurity. I am now eager to transition into this dynamic field, aiming to contribute my skills and enthusiasm as a Threat Hunter, proactively identifying and mitigating advanced threats to enhance organizational security.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,6 +22,7 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 | Scripting and Automation for Threat dection| SOC Automation Lab|
 | Threat dection| SOC Automation Lab|
 | Network Security & Traffic Monitoring	| SOC Automation Lab|
+|File Backup & Recovery	| 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
