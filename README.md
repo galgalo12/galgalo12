@@ -22,7 +22,7 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 | Scripting and Automation for Threat dection| SOC Automation Lab|
 | Threat dection| SOC Automation Lab|
 | Network Security & Traffic Monitoring	| SOC Automation Lab|
-|File Backup & Recovery	| 
+|File Backup & Recovery	| <a href="https://www.youtube.com/@143abdifatah">Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
