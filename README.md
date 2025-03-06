@@ -3,8 +3,8 @@
 I'm Abdiatah Galgalo a Cybersecurity enthusiast currently pursuing a major in Cybersecurity. I'm passionate about protecting digital assets and continuously expanding my knowledge in this ever-evolving field.
 
 🔭 **Currently Working On:**
-- Developing [Project Name], a tool aimed at [brief description of the project's purpose].
-- Enhancing my skills in penetration testing and vulnerability assessment.
+- **Python Automation Scripts:** Developing scripts to monitor login attempts from various IP addresses, enhancing security by identifying and analyzing unauthorized access patterns.
+- **VirusTotal API Integration:** Automating the login process and file scanning using the VirusTotal API to efficiently detect and analyze potential threats.
 
 🌱 **Learning:**
 - Deepening my understanding of network security protocols.
