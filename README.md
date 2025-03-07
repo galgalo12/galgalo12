@@ -11,7 +11,6 @@ I am a cybersecurity professional with a degree from the University of Washingto
 My experience includes working with various security technologies, performing proactive threat hunting, and utilizing data analytics tools to gain actionable insights into potential security risks. I am passionate about continuous learning and am always striving to stay at the forefront of emerging security technologies and practices to ensure robust protection for organizations.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in Information Technology has ignited a strong passion for cybersecurity. I am now eager to transition into this dynamic field, aiming to contribute my skills and enthusiasm as a Threat Hunter, proactively identifying and mitigating advanced threats to enhance organizational security.
 
