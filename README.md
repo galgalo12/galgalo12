@@ -33,6 +33,10 @@ My journey in Information Technology has ignited a strong passion for cybersecur
     <a href="https://www.wireshark.org/" target="_blank">
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     </a>
+
+  <a href="https://nmap.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
+</a>
   
 </a>
 </a>
