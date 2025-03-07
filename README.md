@@ -17,10 +17,9 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 ## Skills
 
 | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+|-----------------------------------------------|-----------------------------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat dection| SOC Automation Lab|
 | Threat dection| SOC Automation Lab|
@@ -28,7 +27,6 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 |File Backup & Recovery	| <a href="https://www.youtube.com/@143abdifatah">Incidet File recovery </a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
