@@ -53,7 +53,9 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%20Operation%20Analysis%20200%20Azure-001F3F?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Identity%20and%20Access%20Administrator%20Associate-001F3F?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/4fe94342-8df8-4332-b779-1ab959916fb3/linked_in_profile" target="_blank">
+<img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Identity%20and%20Access%20Administrator%20Associate-0078D4?&style=for-the-badge&logoColor=white" />
+</a>
 
 
 </div>
