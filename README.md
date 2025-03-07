@@ -6,7 +6,9 @@
 </a>
 
 
-I graduate from univerity of washington with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity professional with a degree from the University of Washington and over 5 years of experience in the field. My expertise lies in cloud security, threat hunting, and using advanced tools such as EDR and Splunk to detect, analyze, and mitigate security threats. Throughout my career, I’ve developed a strong understanding of securing cloud environments, identifying vulnerabilities, and responding to real-time threats.
+
+My experience includes working with various security technologies, performing proactive threat hunting, and utilizing data analytics tools to gain actionable insights into potential security risks. I am passionate about continuous learning and am always striving to stay at the forefront of emerging security technologies and practices to ensure robust protection for organizations.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
