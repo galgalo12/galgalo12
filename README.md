@@ -50,6 +50,7 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<a href="https://www.credly.com/badges/8aa8cce4-7916-427a-8538-83271844e264?source=linked_in_profile" target="_blank">
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%20Operation%20Analysis%20200%20Azure-001F3F?&style=for-the-badge&logoColor=white" />
