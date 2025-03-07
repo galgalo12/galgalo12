@@ -62,10 +62,10 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Identity%20and%20Access%20Administrator%20Associate-0078D4?&style=for-the-badge&logoColor=white" />
     
 <a href="https://www.coursera.org/account/accomplishments/certificate/S0OMUCSN1A6C" target="_blank">
- <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Identity%20and%20Access%20Administrator%20Associate-0078D4?&style=for-the-badge&logoColor=white" />
-
-
+  <img src="https://img.shields.io/badge/-Google%20IT%20Automation%20with%20Python%20Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </a>
+
+
 
 
 </div>
