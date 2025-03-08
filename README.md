@@ -23,7 +23,7 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat dection| SOC Automation Lab|
 | Threat dection| SOC Automation Lab|
-| Network Security & Traffic Monitoring	| SOC Automation Lab|
+| Firwall Security & Traffic Monitoring	| SOC Automation Lab|
 |File Backup & Recovery	| <a href="https://www.youtube.com/@143abdifatah">Incidet File recovery </a>|
 
 ## Tools
