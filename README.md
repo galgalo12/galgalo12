@@ -80,7 +80,7 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 
 </div>
 
-## Projects
--Telstra-Cybersecurity!
+## Projects!
 - Detection Lab
 - SOC Automation Project
+- Telstra-Cybersecurity
