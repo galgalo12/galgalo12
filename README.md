@@ -22,6 +22,7 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 | Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat dection| SOC Automation Lab|
+                                              | <a href="https://github.com/craig/SpringCore0day/blob/main/exp.py"> Malware attack</a>|
 | Telstra-Cybersecurity | SOC Automation Lab|
 | Firwall Security & Traffic Monitoring	| SOC Automation Lab|
 |File Backup & Recovery	| <a href="https://www.youtube.com/@143abdifatah">Incidet File recovery </a>|
