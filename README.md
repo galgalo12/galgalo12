@@ -22,7 +22,7 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 | Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Scripting and Automation for Threat dection| SOC Automation Lab|
-| Threat dection| SOC Automation Lab|
+| Telstra-Cybersecurity | SOC Automation Lab|
 | Firwall Security & Traffic Monitoring	| SOC Automation Lab|
 |File Backup & Recovery	| <a href="https://www.youtube.com/@143abdifatah">Incidet File recovery </a>|
 
@@ -82,5 +82,6 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 </div>
 
 ## Projects
+-Telstra-Cybersecurity!
 - Detection Lab
 - SOC Automation Project
