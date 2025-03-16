@@ -18,8 +18,8 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|-----------------------------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection| <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a Still working on">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection| <a Still working on>Detection Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://medium.com/p/43a41dcbb66a/edit"> IRS Plan Lab</a>|
 | Telstra-Cybersecurity | <a href="https://github.com/craig/SpringCore0day/blob/main/exp.py">Detection Lab</a>|
 | Firwall Security & Traffic Monitoring	| SOC Automation Lab|
