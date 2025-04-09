@@ -89,13 +89,6 @@ Skilled in using Python for:
 
 🔥 Auto-blocks malicious IPs with firewall integration
 
-</details> <details> <summary>🖥️ <strong>Log Review GUI</strong></summary>
-🧩 Graphical interface for real-time log analysis
-
-🔍 Filters, tags, and flags suspicious entries
-
-💼 Ideal for Security Operations Centers
-
 </details> <details> <summary>📁 <strong>Windows Event Log Scanner</strong></summary>
 🔍 Detects malicious events in Windows logs
 
