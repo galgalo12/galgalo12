@@ -75,40 +75,56 @@ Skilled in using Python for:
 
 
 ### 📂 Featured Projects
-<details> <summary>🔎 <strong>Phishing Detector</strong> – <a href="https://github.com/galgalo12/phishing-detector">View Repo</a></summary>
-🧠 Classifies emails as phishing or legitimate
 
-📡 Uses VirusTotal threat intelligence API
+<details> 
+<summary>🔎 <strong>Phishing Detector</strong> – <a href="https://github.com/galgalo12/phishing-detector">View Repo</a></summary>
 
-⚡ Helps analysts prioritize email threats
+*   🧠 Classifies emails as phishing or legitimate
+*   📡 Uses VirusTotal threat intelligence API
+*   ⚡ Helps analysts prioritize email threats
 
-</details> <details> <summary>🛡️ <strong>Brute Force Log Analyzer</strong></summary>
-📊 Scans logs for brute-force login attempts
+</details>
 
-✉️ Sends alerts via Gmail
+<details> 
+<summary>🛡️ <strong>Brute Force Log Analyzer</strong> - [View <a href="https://github.com/galgalo12/phishing-detector">View Repo</a></summary>
 
-🔥 Auto-blocks malicious IPs with firewall integration
+*   📊 Scans logs for brute-force login attempts
+*   ✉️ Sends alerts via Gmail
+*   🔥 Auto-blocks malicious IPs with firewall integration
 
-</details> <details> <summary>📁 <strong>Windows Event Log Scanner</strong></summary>
-🔍 Detects malicious events in Windows logs
+</details>
 
-🚨 Flags failed logins, PowerShell abuse, service tampering
+<details> 
+<summary>📁 <strong>Windows Event Log Scanner</strong> - [View Repo](#)</summary>
 
-🛠️ Great for incident response teams
+*   🔍 Detects malicious events in Windows logs
+*   🚨 Flags failed logins, PowerShell abuse, service tampering
+*   🛠️ Great for incident response teams
 
-</details> <details> <summary>💾 <strong>Local Malware Scanner</strong></summary>
-🧪 Scans Windows files against ClamAV/VirusTotal
+</details>
 
-🧠 Identifies known malware hashes
+<details> 
+<summary>💾 <strong>Local Malware Scanner</strong> - [View Repo](#)</summary>
 
-🧱 Supports alerting and suspicious upload checks
+*   🧪 Scans Windows files against ClamAV/VirusTotal
+*   🧠 Identifies known malware hashes
+*   🧱 Supports alerting and suspicious upload checks
 
-</details> <details> <summary>👤 <strong>User Login Validation Tracker</strong></summary>
-📌 Tracks login success and failure events
+</details>
 
-🕵️ Flags logins at odd hours or from new devices
+<details> 
+<summary>
+  👤 <strong>User Login Validation Tracker</strong> - View 
+  <a href="https://github.com/galgalo12/Automated-User-Login-Validation-System">View Repo</a>
+</summary>
 
-🧭 Supports anomaly detection and SOC workflows.
+
+*   📌 Tracks login success and failure events
+*   🕵️ Flags logins at odd hours or from new devices
+*   🧭 Supports anomaly detection and SOC workflows
+
+</details>
+
 
 
 
