@@ -67,8 +67,44 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 
 
 ### 📂 Featured Projects
-- Phishing Detector – Repo: Python tool that classifies emails as phishing or legitimate using the VirusTotal threat intelligence API.
-- Brute Force Log Analyzer – Scans system logs for brute-force attempts and malicious IPs, alerts analysts via email, and automatically blocks attackers using a firewall API.
-- Windows Event Log Scanner – Detects malicious activity from Windows Event Logs, including failed login attempts, PowerShell abuse, and suspicious service creations.
-- Local Malware Scanner – Scans Windows directories for known malware hashes and suspicious file uploads, integrating with VirusTotal and ClamAV.
-- User Login Validation Tracker – Monitors successful and failed login events, alerting administrators to anomalies such as login attempts from unusual times or devices.
+<details> <summary>🔎 <strong>Phishing Detector</strong> – <a href="https://github.com/galgalo12/phishing-detector">View Repo</a></summary>
+🧠 Classifies emails as phishing or legitimate
+
+📡 Uses VirusTotal threat intelligence API
+
+⚡ Helps analysts prioritize email threats
+
+</details> <details> <summary>🛡️ <strong>Brute Force Log Analyzer</strong></summary>
+📊 Scans logs for brute-force login attempts
+
+✉️ Sends alerts via Gmail
+
+🔥 Auto-blocks malicious IPs with firewall integration
+
+</details> <details> <summary>🖥️ <strong>Log Review GUI</strong></summary>
+🧩 Graphical interface for real-time log analysis
+
+🔍 Filters, tags, and flags suspicious entries
+
+💼 Ideal for Security Operations Centers
+
+</details> <details> <summary>📁 <strong>Windows Event Log Scanner</strong></summary>
+🔍 Detects malicious events in Windows logs
+
+🚨 Flags failed logins, PowerShell abuse, service tampering
+
+🛠️ Great for incident response teams
+
+</details> <details> <summary>💾 <strong>Local Malware Scanner</strong></summary>
+🧪 Scans Windows files against ClamAV/VirusTotal
+
+🧠 Identifies known malware hashes
+
+🧱 Supports alerting and suspicious upload checks
+
+</details> <details> <summary>👤 <strong>User Login Validation Tracker</strong></summary>
+📌 Tracks login success and failure events
+
+🕵️ Flags logins at odd hours or from new devices
+
+🧭 Supports anomaly detection and SOC workflows.
