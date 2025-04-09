@@ -67,11 +67,6 @@ Skilled in using Python for:
 
 
 
-### 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/galgalo/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/your-handle)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge)](https://www.youtube.com/@yourchannel)
 
 
 ### 📂 Featured Projects
@@ -109,3 +104,11 @@ Skilled in using Python for:
 🕵️ Flags logins at odd hours or from new devices
 
 🧭 Supports anomaly detection and SOC workflows.
+
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/galgalo/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/your-handle)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge)](https://www.youtube.com/@yourchannel)
+
