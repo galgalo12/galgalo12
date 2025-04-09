@@ -34,42 +34,6 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
-
-
-
-### Network
-<div>
-    <a href="https://www.wireshark.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    </a>
-
-  <a href="https://nmap.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=gnometerminal&logoColor=white" />
-</a>
-
-
----
-  
-</a>
-</a>
-
-
----
-
-
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
 ## Certifications
 <div>
     
