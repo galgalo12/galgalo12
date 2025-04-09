@@ -31,6 +31,17 @@
 
 ## Certifications
 
+## 🧠 Programming Languages
+
+![Python Lanauages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&langs_count=8)
+
+### 🐍 Python Automation
+Skilled in using Python for:
+
+- 🔍 Threat Hunting: Parsing logs, extracting IOCs, and detecting anomalies
+- 🛡 Incident Response: Automating alerting, IP blocking, and ticket creation
+
+
 
 
 
