@@ -26,6 +26,16 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 |File Backup & Recovery	| <a href="https://www.youtube.com/@143abdifatah">Incident File recovery </a>|
 
 ## Tools
+### 🔧 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+
 
 ### Network
 <div>
