@@ -33,13 +33,16 @@
 
 ## 🧠 Programming Languages
 
-![Python Lanauages](https://github.com/galgalo12?tab=repositories)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&langs_count=8&hide=pythonlanaguae)
 
 ### 🐍 Python Automation
 Skilled in using Python for:
 
-- 🔍 Threat Hunting: Parsing logs, extracting IOCs, and detecting anomalies
-- 🛡 Incident Response: Automating alerting, IP blocking, and ticket creation
+- 🔍 Threat Hunting: Parsing logs, extracting IOCs, and detecting anomalies  
+- 🛡 Incident Response: Automating alerting, IP blocking, and ticket creation  
+- 📊 SIEM & Data Analysis: Working with KQL, JSON, and APIs to enrich detections  
+- ⚙️ Custom Tools: Developing CLI utilities and automation scripts for red/blue teams  
 
 
 
