@@ -1,18 +1,13 @@
+👋🏾 Hey there, I’m Abdifatah Galgalo
 
-# Hello, I'm ABDIFATAH GALGALO
+🔐 Cybersecurity professional specializing in threat hunting, cloud security
 
-<a href="https://www.linkedin.com/in/galgalo/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+🎓 Proud University of Washington graduate with 5+ years of experience securing cloud environments and stopping threats in real time.
 
+💡 Passionate about mentorship and committed to uplifting underrepresented voices in tech.
 
-I am a cybersecurity professional with a degree from the University of Washington and over 5 years of experience in the field. My expertise lies in cloud security, threat hunting, and using advanced tools such as EDR and Splunk to detect, analyze, and mitigate security threats. Throughout my career, I’ve developed a strong understanding of securing cloud environments, identifying vulnerabilities, and responding to real-time threats.
-
-My experience includes working with various security technologies, performing proactive threat hunting, and utilizing data analytics tools to gain actionable insights into potential security risks. I am passionate about continuous learning and am always striving to stay at the forefront of emerging security technologies and practices to ensure robust protection for organizations.
-
-## Objective
-
-My journey in Information Technology has ignited a strong passion for cybersecurity. I am now eager to transition into this dynamic field, aiming to contribute my skills and enthusiasm as a Threat Hunter, proactively identifying and mitigating advanced threats to enhance organizational security.
+	"Secure the cloud. Uplift the community."
+	That’s my mission — in cybersecurity, in coaching, and in every keystroke.
 
 ## Skills
 
