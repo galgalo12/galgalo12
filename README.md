@@ -9,16 +9,15 @@
 	"Secure the cloud. Uplift the community."
 	That’s my mission — in cybersecurity, in coaching, and in every keystroke.
 
-## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|-----------------------------------------------|
-| SIEM Implementation and Log Analysis          | <a Still working on>Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection| <a Still working on>Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://medium.com/p/43a41dcbb66a/edit"> IRS Plan Lab</a>|
-| Telstra-Cybersecurity | <a href="https://github.com/craig/SpringCore0day/blob/main/exp.py">Detection Lab</a>|
-| Firwall Security & Traffic Monitoring	| SOC Automation Lab|
-|File Backup & Recovery	| <a href="https://www.youtube.com/@143abdifatah">Incident File recovery </a>|
+| **Skill**                                         | **Associated Project**                                   |
+|-------------------------------------------------|---------------------------------------------------------|
+| <font color="blue">SIEM Implementation and Log Analysis</font>          | Detection Lab (Still working on)                       |
+| <font color="green">Network Traffic Monitoring and Attack Detection</font>| Detection Lab (Still working on)                       |
+| <font color="red">Incident Response Planning and Execution</font>      | [IRS Plan Lab](https://medium.com/p/43a41dcbb66a/edit) |
+| <font color="purple">Telstra-Cybersecurity</font>                         | [Detection Lab](https://github.com/craig/SpringCore0day/blob/main/exp.py) |
+| <font color="orange">Firewall Security & Traffic Monitoring</font>        | SOC Automation Lab                                     |
+| <font color="teal">File Backup & Recovery</font>                        | [Incident File Recovery](https://www.youtube.com/@143abdifatah) |
 
 ## Tools
 ### 🔧 Tools & Technologies
