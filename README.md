@@ -33,7 +33,7 @@
 
 ## 🧠 Programming Languages
 
-![Python Lanauages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&langs_count=8)
+![Python Lanauages](https://github.com/galgalo12?tab=repositories)
 
 ### 🐍 Python Automation
 Skilled in using Python for:
