@@ -93,10 +93,8 @@ My journey in Information Technology has ignited a strong passion for cybersecur
 
 
 ### 📂 Featured Projects
-
-Phishing Detector – Repo: Python tool that classifies emails as phishing or legitimate using the VirusTotal threat intelligence API.
-Brute Force Log Analyzer – Scans system logs for brute-force attempts and malicious IPs, alerts analysts via email, and automatically blocks attackers using a firewall API.
-Log Review GUI – A graphical interface to filter, analyze, and tag suspicious log entries in real-time for efficient SOC operations.
-Windows Event Log Scanner – Detects malicious activity from Windows Event Logs, including failed login attempts, PowerShell abuse, and suspicious service creations.
-Local Malware Scanner – Scans Windows directories for known malware hashes and suspicious file uploads, integrating with VirusTotal and ClamAV.
-User Login Validation Tracker – Monitors successful and failed login events, alerting administrators to anomalies such as login attempts from unusual times or devices.
+- Phishing Detector – Repo: Python tool that classifies emails as phishing or legitimate using the VirusTotal threat intelligence API.
+- Brute Force Log Analyzer – Scans system logs for brute-force attempts and malicious IPs, alerts analysts via email, and automatically blocks attackers using a firewall API.
+- Windows Event Log Scanner – Detects malicious activity from Windows Event Logs, including failed login attempts, PowerShell abuse, and suspicious service creations.
+- Local Malware Scanner – Scans Windows directories for known malware hashes and suspicious file uploads, integrating with VirusTotal and ClamAV.
+- User Login Validation Tracker – Monitors successful and failed login events, alerting administrators to anomalies such as login attempts from unusual times or devices.
