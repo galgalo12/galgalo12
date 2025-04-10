@@ -41,7 +41,6 @@ Skilled in using Python for:
 - 🔍 Threat Hunting: Parsing logs, extracting IOCs, and detecting anomalies  
 - 🛡 Incident Response: Automating alerting, IP blocking, and ticket creation  
 - 📊 SIEM & Data Analysis: Working with KQL, JSON, and APIs to enrich detections  
-- ⚙️ Custom Tools: Developing CLI utilities and automation scripts for red/blue teams  
 
 
 
