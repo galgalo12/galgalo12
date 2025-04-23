@@ -28,7 +28,17 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
-## Certifications
+## 🏅 Certifications
+
+| Certification | Issuing Organization | Credential Link |
+|---------------|----------------------|-----------------|
+| ![AZ-500](https://img.shields.io/badge/Microsoft_Azure_Security_Engineer_Associate-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft | [Verify](https://www.credly.com/badges/your-az500-cert-link) |
+| ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-ED1C24?style=flat-square&logo=comptia&logoColor=white) | CompTIA | [Verify](https://www.credly.com/badges/your-securityplus-cert-link) |
+| ![Certified Threat Intelligence Analyst (CTIA)](https://img.shields.io/badge/EC_Council_CTIA-CC0000?style=flat-square&logo=ec-council&logoColor=white) | EC-Council | [Verify](https://www.eccouncil.org/ctia-certification/) |
+| ![Splunk Core Certified User](https://img.shields.io/badge/Splunk_Core_Certified_User-000000?style=flat-square&logo=splunk&logoColor=white) | Splunk | [Verify](https://www.credly.com/badges/your-splunk-cert-link) |
+
+> ✨ Pro Tip: Use [Credly](https://www.credly.com/) to host and verify your certificates — they provide shareable, badge-linked verification URLs!
+
 
 ## 🧠 Programming Languages
 
