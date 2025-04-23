@@ -31,7 +31,7 @@
 ## 🏅 Certifications
 | Certification | Issuing Organization | Credential Link |
 |---------------|----------------------|-----------------|
-| ![AZ-500](https://img.shields.io/badge/Microsoft_Azure_Security_Engineer_Associate-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft | [View Certificate](https://www.credly.com/badges/4fe94342-8df8-4332-b779-1ab959916fb3/linked_in_profile) |
+| ![AZ-300](https://img.shields.io/badge/Microsoft_Azure_Security_Engineer_Associate-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft | [View Certificate](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
 | ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-ED1C24?style=flat-square&logo=comptia&logoColor=white) | CompTIA | [View Certificate](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
 | ![Splunk Core Certified User](https://img.shields.io/badge/Splunk_Core_Certified_User-000000?style=flat-square&logo=splunk&logoColor=white) | Splunk | [View Certificate](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
 | ![Google IT Automation with Python](https://img.shields.io/badge/Google_IT_Automation_with_Python-34A853?style=flat-square&logo=google&logoColor=white) | Google (via Coursera) | [View Certificate](https://www.coursera.org/account/accomplishments/certificate/S0OMUCSN1A6C) |
