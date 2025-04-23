@@ -36,10 +36,7 @@
 | ![Splunk Core Certified User](https://img.shields.io/badge/Splunk_Core_Certified_User-000000?style=flat-square&logo=splunk&logoColor=white) | Splunk | [View Certificate](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
 | ![Google IT Automation with Python](https://img.shields.io/badge/Google_IT_Automation_with_Python-34A853?style=flat-square&logo=google&logoColor=white) | Google (via Coursera) | [View Certificate](https://www.coursera.org/account/accomplishments/certificate/S0OMUCSN1A6C) |
 
-> 📌 Hosted on [Credly](https://www.credly.com/) and [Coursera](https://www.coursera.org), each certificate is publicly verifiable for credibility.
 
-
-> ✨ Pro Tip: Use [Credly](https://www.credly.com/) to host and verify your certificates — they provide shareable, badge-linked verification URLs!
 
 
 ## 🧠 Programming Languages
