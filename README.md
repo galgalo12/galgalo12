@@ -29,13 +29,15 @@
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## 🏅 Certifications
-
 | Certification | Issuing Organization | Credential Link |
 |---------------|----------------------|-----------------|
-| ![AZ-500](https://img.shields.io/badge/Microsoft_Azure_Security_Engineer_Associate-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft | [Verify](https://www.credly.com/badges/your-az500-cert-link) |
-| ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-ED1C24?style=flat-square&logo=comptia&logoColor=white) | CompTIA | [Verify](https://www.credly.com/badges/your-securityplus-cert-link) |
-| ![Certified Threat Intelligence Analyst (CTIA)](https://img.shields.io/badge/EC_Council_CTIA-CC0000?style=flat-square&logo=ec-council&logoColor=white) | EC-Council | [Verify](https://www.eccouncil.org/ctia-certification/) |
-| ![Splunk Core Certified User](https://img.shields.io/badge/Splunk_Core_Certified_User-000000?style=flat-square&logo=splunk&logoColor=white) | Splunk | [Verify](https://www.credly.com/badges/your-splunk-cert-link) |
+| ![AZ-500](https://img.shields.io/badge/Microsoft_Azure_Security_Engineer_Associate-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft | [View Certificate](https://www.credly.com/badges/4fe94342-8df8-4332-b779-1ab959916fb3/linked_in_profile) |
+| ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-ED1C24?style=flat-square&logo=comptia&logoColor=white) | CompTIA | [View Certificate](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
+| ![Splunk Core Certified User](https://img.shields.io/badge/Splunk_Core_Certified_User-000000?style=flat-square&logo=splunk&logoColor=white) | Splunk | [View Certificate](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
+| ![Google IT Automation with Python](https://img.shields.io/badge/Google_IT_Automation_with_Python-34A853?style=flat-square&logo=google&logoColor=white) | Google (via Coursera) | [View Certificate](https://www.coursera.org/account/accomplishments/certificate/S0OMUCSN1A6C) |
+
+> 📌 Hosted on [Credly](https://www.credly.com/) and [Coursera](https://www.coursera.org), each certificate is publicly verifiable for credibility.
+
 
 > ✨ Pro Tip: Use [Credly](https://www.credly.com/) to host and verify your certificates — they provide shareable, badge-linked verification URLs!
 
