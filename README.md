@@ -29,13 +29,14 @@
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## 🏅 Certifications
+
 | Certification | Issuing Organization | Credential Link |
 |---------------|----------------------|-----------------|
-| (![Microsoft SOC Operations on Azure](https://img.shields.io/badge/Microsoft_SOC_Operations_on_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-)[View Certificate](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
+| ![Microsoft SOC Operations on Azure](https://img.shields.io/badge/Microsoft_SOC_Operations_on_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft | [View Certificate](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
 | ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-ED1C24?style=flat-square&logo=comptia&logoColor=white) | CompTIA | [View Certificate](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
 | ![Splunk Core Certified User](https://img.shields.io/badge/Splunk_Core_Certified_User-000000?style=flat-square&logo=splunk&logoColor=white) | Splunk | [View Certificate](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
 | ![Google IT Automation with Python](https://img.shields.io/badge/Google_IT_Automation_with_Python-34A853?style=flat-square&logo=google&logoColor=white) | Google (via Coursera) | [View Certificate](https://www.coursera.org/account/accomplishments/certificate/S0OMUCSN1A6C) |
+
 
 
 
