@@ -1,8 +1,8 @@
 👋🏾 Hey there, I’m Abdifatah Galgalo
 
-🔐 Cybersecurity professional specializing in threat hunting, cloud security
+🔐 Cybersecurity professional specializing in threat hunting, cloud security and vulnerabilities management 
 
-🎓 Proud University of Washington graduate with 5+ years of experience securing cloud environments and stopping threats in real time.
+🎓 Cloud Security Engineer • University of Washington graduate • 5+ years defending cloud environments and detecting threats in real time
 
 💡 Passionate about mentorship and committed to uplifting underrepresented voices in tech.
 
