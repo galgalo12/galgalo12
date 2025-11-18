@@ -14,7 +14,7 @@
 |-------------------------------------------------|---------------------------------------------------------|
 | <font color="blue">SIEM Implementation and Log Analysis</font>          | Detection Lab (Still working on                       |
 | <font color="green">Threat-Hunting Report: Investigating Unauthorized TOR Usage via MDE</font>| [Detection Lab](https://github.com/galgalo12/Threat-Hunt-Report-Unauthorized-TOR-Usage-)
-| <font color="orange">Azure-Sentinel-Workspace-Creation </font> | [SOC-Automation-Workspace](https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity)| 
+| <font color="orange">Azure-Sentinel-Workbook-Creation </font> | [SOC-Automation-Workbook](https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity)| 
 | <font color="red">Incident Response Planning and Execution</font>      | [IRS Plan Lab](https://medium.com/p/43a41dcbb66a/edit) |
 | <font color="purple">Telstra-Cybersecurity</font>                         | [Detection Lab](https://github.com/craig/SpringCore0day/blob/main/exp.py) |
 | <font color="orange">Firewall Security & Traffic Monitoring</font>        | SOC Automation Lab                                     |
