@@ -1,13 +1,34 @@
 👋🏾 Hey there, I’m Abdifatah Galgalo
 
-🔐 Cybersecurity professional specializing in threat hunting, cloud security and vulnerabilities management 
+## 🔐 Cybersecurity Professional Specializing in Threat Hunting, Cloud Security
 
-🎓 Cloud Security Engineer • University of Washington graduate • 5+ years defending cloud environments and detecting threats in real time
+🎓 **Cloud Security Engineer** • University of Washington Graduate  
+🛡️ **5+ years defending cloud, hybrid, and enterprise environments** through real-time detection, incident response, and continuous monitoring.
 
-💡 Passionate about mentorship and committed to uplifting underrepresented voices in tech.
+I specialize in building **end-to-end detection pipelines** and conducting advanced investigations across Azure and modern SOC ecosystems. My work includes:
 
-	"Secure the cloud. Uplift the community."
-	That’s my mission — in cybersecurity, in coaching, and in every keystroke.
+- **Azure Log Analytics** for log aggregation, custom KQL queries, and large-scale threat correlation  
+- **Microsoft Sentinel & Azure Workbooks** to visualize authentication patterns, network flows, identity risks, and malicious activity  
+- **Threat Hunting** across Entra ID, network telemetry, VM authentication attempts, and cloud resources  
+- **Python Automation** for alert enrichment, incident triage, malware analysis, and firewall rule enforcement  
+- **Cloud Hardening** through identity security, file integrity monitoring, and continuous configuration validation  
+
+I’ve built complete security solutions using **KQL-driven queries**, custom **Azure Workbooks dashboards**, and **Log Analytics workspaces** to detect:
+
+- Brute force attacks  
+- Malicious inbound traffic  
+- Unauthorized VM access  
+- Suspicious identity behavior  
+- Cloud resource misuse  
+
+💡 **Passionate about mentorship and committed to uplifting underrepresented voices in tech.**  
+Cybersecurity is not just about protecting systems — it’s about empowering people.
+
+---
+
+### **"Secure the cloud. Uplift the community."**
+That’s my mission — in cybersecurity, in coaching, and in every keystroke.
+
 
 
 | **Skill**                                         | **Associated Project**                                   |
