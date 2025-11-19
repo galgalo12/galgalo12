@@ -38,7 +38,7 @@ That’s my mission — in cybersecurity, in coaching, and in every keystroke.
 | <font color="orange">Azure-Sentinel-Workbook-Creation </font> | [SOC-Automation-Workbook](https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity)| 
 | <font color="red">Incident Response Planning and Execution</font>      | [IRS Plan Lab](https://medium.com/p/43a41dcbb66a/edit) |
 | <font color="purple">Telstra-Cybersecurity</font>                         | [Detection Lab](https://github.com/craig/SpringCore0day/blob/main/exp.py) |
-| <font color="orange">Firewall Security & Traffic Monitoring</font>        | SOC Automation Lab                                     |
+| <font color="orange">Firewall Security & Traffic Monitoring (Inspecting NSG Logs)</font>        | SOC Automation Lab                                     |
 | <font color="teal">File Backup & Recovery</font>                        | [Incident File Recovery](https://www.youtube.com/@143abdifatah) |
 
 ## Tools
