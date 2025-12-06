@@ -33,7 +33,7 @@ That’s my mission — in cybersecurity, in coaching, and in every keystroke.
 
 | **Skill**                                         | **Associated Project**                                   |
 |-------------------------------------------------|---------------------------------------------------------|
-| <font color="blue">SIEM Implementation and Log Analysis</font>          | [Detection Lab (Still working on ](https://github.com/galgalo12/Threat-Hunting-and-Vulnerability-Management)                      |
+| <font color="blue">Threat-Hunting Report and Vunlerbilty managemnets</font>          | [Detection Lab (Still working on ](https://github.com/galgalo12/Threat-Hunting-and-Vulnerability-Management)                      |
 | <font color="green">Threat-Hunting Report: Investigating Unauthorized TOR Usage via MDE</font>| [Threat-Hunting-Lab](https://github.com/galgalo12/Threat-Hunt-Report-Unauthorized-TOR-Usage-)
 | <font color="orange">Azure-Sentinel-Workbook-Creation </font> | [SOC-Automation-Workbook](https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity)| 
 | <font color="red">Incident Response Planning and Execution</font>      | [IR Plan Lab](https://medium.com/p/43a41dcbb66a/edit) |
