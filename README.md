@@ -33,12 +33,14 @@ That’s my mission — in cybersecurity, in coaching, and in every keystroke.
 
 | **Skill**                                         | **Associated Project**                                   |
 |-------------------------------------------------|---------------------------------------------------------|
-| <font color="blue">Threat-Hunting Report and Vunlerbilty managemnets</font>          | [Vun/Threat hunting (Still working on ](https://github.com/galgalo12/Threat-Hunting-and-Vulnerability-Management)                      |
+| <font color="blue">Threat-Hunting Report and Vunlerbilty managemnets</font>          | [Vun/Threat hunting](https://github.com/galgalo12/Threat-Hunting-and-Vulnerability-Management)                      |
 | <font color="orange">Azure-Sentinel-Workbook-Creation </font> | [SOC-Automation-Workbook](https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity)| 
 | <font color="red">Incident Response Planning and Execution</font>      | [IR Plan Lab](https://medium.com/p/43a41dcbb66a/edit) |
 | <font color="purple">Microsoft Defender for Endpoint — RCE Detection & Device Isolation Lab</font>                         | [Detection Lab](https://github.com/galgalo12/Microsoft-Defender-for-Endpoint-RCE-Detection-Device-Isolation-Lab/tree/main) |
 | <font color="orange">Firewall Security & Traffic Monitoring (Inspecting NSG Logs)</font>        |  [Inspecting NSG Logs](https://github.com/galgalo12/-Inspecting-Azure-NSG-Logs-Threat-Hunting-Network-Flow-Analysis/blob/main/README.md)
 | <font color="teal">File Backup & Recovery</font>                        | [Incident File Recovery](https://www.youtube.com/@143abdifatah) |
+| <font color="red">AI + Cybersecurity w/Python</font> | [Threat Hunting (Still working on)](https://github.com/galgalo12/Threat-Hunting-and-Vulnerability-Management) |
+
 
 ## Tools
 ### 🔧 Tools & Technologies
