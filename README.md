@@ -1,6 +1,5 @@
-👋🏾 Hey there, I’m Abdifatah Galgalo
+# 🔐 [Cybersecurity Professional Portfolio](https://www.linkedin.com/in/galgalo/) | Threat Hunting · Cloud Security · Security Operations
 
-## 🔐 Cybersecurity Professional Specializing in Threat Hunting, Cloud Security
 
 🎓 **Cloud Security Engineer** • University of Washington Graduate  
 🛡️ **5+ years defending cloud, hybrid, and enterprise environments** through real-time detection, incident response, and continuous monitoring.
