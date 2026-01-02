@@ -77,7 +77,7 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 | --------------------------------- | --------- | -------------------------------------------------------------------------------------------- |
 | Microsoft SOC Operations on Azure | Microsoft | [View](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
 | CompTIA Security+                 | CompTIA   | [View](https://www.credly.com/badges/4fe94342-8df8-4332-b779-1ab959916fb3/linked_in_profile) |
-| Splunk Core Certified User        | Splunk    | [View](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
+| Microsoft SOC Analyst (SC-200)        | Splunk    | [View](https://www.credly.com/badges/6af246f4-95a0-4110-a219-fd5c5fcdb845/linked_in_profile) |
 | Google IT Automation with Python  | Google    | [View](https://www.coursera.org/account/accomplishments/certificate/S0OMUCSN1A6C)            |
 
 ---
