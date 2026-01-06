@@ -39,7 +39,6 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 ### 🚨 Threat Hunting Labs
 
 * 🔗 **[Unauthorized TOR Browser Usage Detection](https://github.com/galgalo12/Threat-Hunt-Report-Unauthorized-TOR-Usage-)**
-* 🔗 **[Sign‑In Log Analysis (MFA Abuse & Failed Logins)](https://github.com/galgalo12/Sign-In-Log-Analysis-Detecting-Failed-Logins-MFA-Abuse-and-Suspicious-Activity)**
 * 🔗 **[Lateral Movement Detection – SOC Lab](https://github.com/galgalo12/Threat-Hunting-for-Lateral-Movement-Attacks-SOC-Lab-)**
 * 🔗 **[Brute Force Attacks on Internet‑Exposed VM](https://github.com/galgalo12/-Threat-Hunting-Brute-Force-Attacks-on-an-Internet-Exposed-Windows-Virtual-Machine-)**
 * 🔗 **[Network Scanning Detection](https://github.com/galgalo12/Network-Scanning-Detection-Lab-Threat-Hunt-)**
@@ -54,6 +53,7 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 
 * 🔗 **[Microsoft Sentinel Analytics Rule Creation](https://github.com/galgalo12/How-to-Create-an-Analytics-Rule-in-Microsoft-Sentinel-Detection-Rule-Configuration-)**
 * 🔗 **[Azure Sentinel Workbook – Network Visualization](https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity)**
+* 🔗 **[Sign‑In Log Analysis (MFA Abuse & Failed Logins)](https://github.com/galgalo12/Sign-In-Log-Analysis-Detecting-Failed-Logins-MFA-Abuse-and-Suspicious-Activity)**
 
 ### 🤖 AI + Cybersecurity with Python
 
