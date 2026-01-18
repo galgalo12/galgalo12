@@ -54,6 +54,7 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 * 🔗 **[Microsoft Sentinel Analytics Rule Creation](https://github.com/galgalo12/How-to-Create-an-Analytics-Rule-in-Microsoft-Sentinel-Detection-Rule-Configuration-)**
 * 🔗 **[Azure Sentinel Workbook – Network Visualization](https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity)**
 * 🔗 **[Sign‑In Log Analysis (MFA Abuse & Failed Logins)](https://github.com/galgalo12/Sign-In-Log-Analysis-Detecting-Failed-Logins-MFA-Abuse-and-Suspicious-Activity)**
+* 🔗 **[Microsoft-Sentinel-Analytic-Rules-Automation)](https://github.com/galgalo12/Microsoft-Sentinel-Analytic-Rules-Automation)**
 
 ### 🤖 AI + Cybersecurity with Python
 
