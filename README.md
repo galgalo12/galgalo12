@@ -36,7 +36,7 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 * 🔗 **[Vulnerability Management Program Implementation](https://github.com/galgalo12/Vulnerability-Management-Program-Implementation)**
 * 🔗 **[Programmatic Vulnerability Remediation (PowerShell & Bash)](https://github.com/joshcybertest/programmatic-vulnerability-remediations/blob/main/scripts/powershell-template.ps1)**
   
-* 🔗 **[Scanning a Windows VM:Authenticated vs. Unauthenticated](https://github.com/galgalo12/Vulnerability-Management-Program-Implementation)**
+* 🔗 **[Scanning a Windows VM:Authenticated vs. Unauthenticated](https://github.com/galgalo12/-Scanning-a-Windows-VM-Authenticated-vs.-Unauthenticated/tree/main)**
 
 
 ### 🚨 Threat Hunting Labs
