@@ -47,6 +47,7 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 * 🔗 **[Network Scanning Detection](https://github.com/galgalo12/Network-Scanning-Detection-Lab-Threat-Hunt-)**
 * 🔗 **[Azure NSG Logs – Network Flow Threat Hunting](https://github.com/galgalo12/-Inspecting-Azure-NSG-Logs-Threat-Hunting-Network-Flow-Analysis)**
 * 🔗 **[Zero-Day-Ransomware-PwnCrypt-Outbreak]( https://github.com/galgalo12/Investigation-Scenario-Zero-Day-Ransomware-PwnCrypt-Outbreak)**
+* 🔗 **[RDP-Exposure-Abuse-Password-Spray-Resulting-in-Endpoint-Takeove](https://github.com/galgalo12/RDP-Exposure-Abuse-Password-Spray-Resulting-in-Endpoint-Takeover)**
 
 ### 📈 Data Loss Prevention (DLP)
 
