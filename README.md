@@ -60,6 +60,9 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 * 🔗 **[Microsoft-Sentinel-Analytic-Rules-Automation)](https://github.com/galgalo12/Microsoft-Sentinel-Analytic-Rules-Automation)**
 
 ### 🤖 AI + Cybersecurity with Python
+* 🔗 **[Python-CyberSecurity-Automation](https://github.com/galgalo12/Cyber-security-Python-Automation-/tree/main)**
+
+
 
 * 🔧 *Threat hunting automation, log parsing, IOC extraction, and response workflows (in progress)*
 
