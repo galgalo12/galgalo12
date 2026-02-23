@@ -1,6 +1,6 @@
 # 🔐 Abdifatah Galgalo | Cybersecurity Engineer & Threat Hunter
 
-![Cybersecurity Banner](https://github.com/user-attachments/assets/a385687a-81bb-42f0-8d2f-916fde740dd9)  
+![SOC Dashboard Animated Banner](https://github.com/user-attachments/assets/A_digital_animated_banner_features_Abdifatah_Galga.png)  
 *Animated banner: SOC dashboard / threat hunting vibes with cloud, shield, Python, and Sentinel icons.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/galgalo/)  
@@ -49,28 +49,28 @@ I specialize in **Threat Hunting, Cloud Security, and SOC Automation**, turning 
 
 ### ⚠️ Vulnerability Management
 <p>
-  <a href="https://github.com/galgalo12/Vulnerability-Management-Program-Implementation" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Vulnerability Management Program Implementation</a><br>
-  <a href="https://github.com/joshcybertest/programmatic-vulnerability-remediations/blob/main/scripts/powershell-template.ps1" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Programmatic Vulnerability Remediation</a><br>
-  <a href="https://github.com/galgalo12/-Scanning-a-Windows-VM-Authenticated-vs.-Unauthenticated/tree/main" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Windows VM Scanning: Auth vs. Unauth</a>
+  <a href="https://github.com/galgalo12/Vulnerability-Management-Program-Implementation" style="text-decoration:none; color:#00ffff;">Vulnerability Management Program Implementation</a><br>
+  <a href="https://github.com/joshcybertest/programmatic-vulnerability-remediations/blob/main/scripts/powershell-template.ps1" style="text-decoration:none; color:#00ffff;">Programmatic Vulnerability Remediation</a><br>
+  <a href="https://github.com/galgalo12/-Scanning-a-Windows-VM-Authenticated-vs.-Unauthenticated/tree/main" style="text-decoration:none; color:#00ffff;">Windows VM Scanning: Auth vs. Unauth</a>
 </p>
 
 ### 🚨 Threat Hunting Labs
 <p>
-  <a href="https://github.com/galgalo12/Threat-Hunt-Report-Unauthorized-TOR-Usage-" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Unauthorized TOR Browser Usage Detection</a><br>
-  <a href="https://github.com/galgalo12/Threat-Hunting-for-Lateral-Movement-Attacks-SOC-Lab-" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Lateral Movement Detection – SOC Lab</a><br>
-  <a href="https://github.com/galgalo12/-Threat-Hunting-Brute-Force-Attacks-on-an-Internet-Exposed-Windows-Virtual-Machine-" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Brute Force on Internet-Exposed VM</a><br>
-  <a href="https://github.com/galgalo12/Network-Scanning-Detection-Lab-Threat-Hunt-" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Network Scanning Detection</a><br>
-  <a href="https://github.com/galgalo12/-Inspecting-Azure-NSG-Logs-Threat-Hunting-Network-Flow-Analysis" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Azure NSG Logs – Network Flow Hunting</a><br>
-  <a href="https://github.com/galgalo12/Investigation-Scenario-Zero-Day-Ransomware-PwnCrypt-Outbreak" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Zero-Day Ransomware PwnCrypt Outbreak</a><br>
-  <a href="https://github.com/galgalo12/RDP-Exposure-Abuse-Password-Spray-Resulting-in-Endpoint-Takeover" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">RDP Exposure & Password Spray Takeover</a>
+  <a href="https://github.com/galgalo12/Threat-Hunt-Report-Unauthorized-TOR-Usage-" style="text-decoration:none; color:#00ffff;">Unauthorized TOR Browser Usage Detection</a><br>
+  <a href="https://github.com/galgalo12/Threat-Hunting-for-Lateral-Movement-Attacks-SOC-Lab-" style="text-decoration:none; color:#00ffff;">Lateral Movement Detection – SOC Lab</a><br>
+  <a href="https://github.com/galgalo12/-Threat-Hunting-Brute-Force-Attacks-on-an-Internet-Exposed-Windows-Virtual-Machine-" style="text-decoration:none; color:#00ffff;">Brute Force on Internet-Exposed VM</a><br>
+  <a href="https://github.com/galgalo12/Network-Scanning-Detection-Lab-Threat-Hunt-" style="text-decoration:none; color:#00ffff;">Network Scanning Detection</a><br>
+  <a href="https://github.com/galgalo12/-Inspecting-Azure-NSG-Logs-Threat-Hunting-Network-Flow-Analysis" style="text-decoration:none; color:#00ffff;">Azure NSG Logs – Network Flow Hunting</a><br>
+  <a href="https://github.com/galgalo12/Investigation-Scenario-Zero-Day-Ransomware-PwnCrypt-Outbreak" style="text-decoration:none; color:#00ffff;">Zero-Day Ransomware PwnCrypt Outbreak</a><br>
+  <a href="https://github.com/galgalo12/RDP-Exposure-Abuse-Password-Spray-Resulting-in-Endpoint-Takeover" style="text-decoration:none; color:#00ffff;">RDP Exposure & Password Spray Takeover</a>
 </p>
 
 ### 📈 DLP & SOC Automation
 <p>
-  <a href="https://github.com/galgalo12/Suspected-Data-Exfiltration-Employee" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Suspected Data Exfiltration Investigation</a><br>
-  <a href="https://github.com/galgalo12/How-to-Create-an-Analytics-Rule-in-Microsoft-Sentinel-Detection-Rule-Configuration-" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Microsoft Sentinel Analytics Rule Creation</a><br>
-  <a href="https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Azure Sentinel Network Visualization Workbook</a><br>
-  <a href="https://github.com/galgalo12/Cyber-security-Python-Automation-/tree/main" style="text-decoration:none; color:#00ffff;" onmouseover="this.style.color='#ff4c4c'" onmouseout="this.style.color='#00ffff'">Python Cybersecurity Automation</a>
+  <a href="https://github.com/galgalo12/Suspected-Data-Exfiltration-Employee" style="text-decoration:none; color:#00ffff;">Suspected Data Exfiltration Investigation</a><br>
+  <a href="https://github.com/galgalo12/How-to-Create-an-Analytics-Rule-in-Microsoft-Sentinel-Detection-Rule-Configuration-" style="text-decoration:none; color:#00ffff;">Microsoft Sentinel Analytics Rule Creation</a><br>
+  <a href="https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity" style="text-decoration:none; color:#00ffff;">Azure Sentinel Network Visualization Workbook</a><br>
+  <a href="https://github.com/galgalo12/Cyber-security-Python-Automation-/tree/main" style="text-decoration:none; color:#00ffff;">Python Cybersecurity Automation</a>
 </p>
 
 ---
