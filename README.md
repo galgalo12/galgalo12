@@ -18,31 +18,58 @@ I specialize in **Threat Hunting, Cloud Security, and SOC Automation**, turning 
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Core Skills & Tools
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=galgalo12&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galgalo12&layout=compact&theme=radical" alt="Top Languages" width="400"/></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Threat%20Hunting-%2300ffff?style=for-the-badge&logo=microsoft&logoColor=white" alt="Threat Hunting"/><br>
+      🔍 Threat Hunting & Detection Engineering<br>
+      <sub>Microsoft Defender for Endpoint, Log Analytics, IOC Analysis</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cloud%20Security-%23ff4c4c?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Security"/><br>
+      ☁️ Cloud Security (Azure)<br>
+      <sub>Azure AD, Azure Sentinel, NSGs, Workload Protection</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Incident%20Response-%23ffae00?style=for-the-badge&logo=incidentresponse&logoColor=white" alt="Incident Response"/><br>
+      🚨 Incident Response<br>
+      <sub>Azure Sentinel, MFA Abuse Analysis, Containment & Isolation</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python%20Automation-%23aa00ff?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation"/><br>
+      🤖 Python Automation<br>
+      <sub>Alert Enrichment, IOC Parsing, Firewall Rules, SOC Workflows</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SIEM%20%26%20SOAR-%2300ff94?style=for-the-badge&logo=microsoft&logoColor=white" alt="SIEM & SOAR"/><br>
+      📊 SIEM & SOAR<br>
+      <sub>Microsoft Sentinel, Log Analytics, Workbooks, Automation Rules</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Security%20Hardening-%23ff007f?style=for-the-badge&logo=lock&logoColor=white" alt="Security Hardening"/><br>
+      🔐 Security Hardening<br>
+      <sub>NSG Firewall, Identity Controls, Configuration & Patch Management</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vulnerability%20Management-%23007fff?style=for-the-badge&logo=github&logoColor=white" alt="Vulnerability Management"/><br>
+      🛠️ Vulnerability Management<br>
+      <sub>Scanning, Remediation Scripts, Security Baselines, Patch Validation</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Network%20Security-%23ff9900?style=for-the-badge&logo=fortinet&logoColor=white" alt="Network Security"/><br>
+      🌐 Network Security & Monitoring<br>
+      <sub>NSGs, Firewall Rules, Azure Network Watcher, Traffic Analysis</sub>
+    </td>
   </tr>
 </table>
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=galgalo12&theme=radical)  
-
----
-
-## 🧠 Core Expertise
-
-<p>
-<span style="background-color:#1f2937; color:#00ffff; padding:3px 6px; border-radius:5px;">🔍 Threat Hunting & Detection Engineering</span> — Azure, Entra ID, VM telemetry<br>
-<span style="background-color:#1f2937; color:#ff4c4c; padding:3px 6px; border-radius:5px;">☁️ Cloud Security (Azure)</span> — Identity, network, workload protection<br>
-<span style="background-color:#1f2937; color:#ffae00; padding:3px 6px; border-radius:5px;">🚨 Incident Response</span> — Triage, containment, isolation, remediation<br>
-<span style="background-color:#1f2937; color:#aa00ff; padding:3px 6px; border-radius:5px;">🤖 Python Automation</span> — Alert enrichment, IOC handling, firewall enforcement<br>
-<span style="background-color:#1f2937; color:#00ff94; padding:3px 6px; border-radius:5px;">📊 SIEM & SOAR</span> — Microsoft Sentinel, Log Analytics, Workbooks<br>
-<span style="background-color:#1f2937; color:#ff007f; padding:3px 6px; border-radius:5px;">🔐 Security Hardening</span> — NSGs, identity controls, configuration validation
-</p>
-
----
 
 ## 📂 Featured Projects
 
