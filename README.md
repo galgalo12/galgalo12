@@ -9,12 +9,14 @@
 
 ## 👋 About Me
 
-🎓 **Cloud Security Engineer** — University of Washington  
-🛡️ **5+ years defending cloud, hybrid, and enterprise environments**  
+🎓 **Cloud Security Engineer** — University of Washington Graduate
+🛡️ **5+ years of experience** defending cloud, hybrid, and enterprise environments
 
-I specialize in **Threat Hunting, Cloud Security, and SOC Automation**, turning raw telemetry into **actionable detections** using **KQL, Microsoft Sentinel, Defender, and Python automation**.  
+I specialize in **Threat Hunting, Cloud Security, and Security Operations**, with hands-on experience building **end‑to‑end detection pipelines**, investigating advanced threats, and automating SOC workflows.
 
-> **Mission:** *Secure the cloud. Empower the community.*
+My work focuses on turning telemetry into **actionable detections** using **KQL, Microsoft Sentinel, Defender, and Python automation**.
+
+> **Mission:** *Secure the cloud. Uplift the community.*
 
 ---
 
@@ -70,8 +72,6 @@ I specialize in **Threat Hunting, Cloud Security, and SOC Automation**, turning 
     </td>
   </tr>
 </table>
-
-## 📂 Featured Projects
 
 ### ⚠️ Vulnerability Management
 <p>
