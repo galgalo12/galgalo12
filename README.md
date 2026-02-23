@@ -1,9 +1,6 @@
 # 🔐 Abdifatah Galgalo | Cybersecurity Engineer & Threat Hunter
 
-*Animated banner: SOC dashboard / threat hunting vibes with cloud, shield, Python, and Sentinel icons.*
-
-<img width="1536" height="1024" alt="ChatGPT Image Feb 22, 2026, 11_09_30 PM" src="https://github.com/user-attachments/assets/a385687a-81bb-42f0-8d2f-916fde740dd9" />
-
+![Cybersecurity Banner](https://github.com/user-attachments/assets/a385687a-81bb-42f0-8d2f-916fde740dd9)  
 *Animated banner: SOC dashboard / threat hunting vibes with cloud, shield, Python, and Sentinel icons.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/galgalo/)  
