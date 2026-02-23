@@ -1,6 +1,6 @@
 # 🔐 Abdifatah Galgalo | Cybersecurity Engineer & Threat Hunter
 
-![SOC Dashboard Animated Banner](https://github.com/user-attachments/assets/A_digital_animated_banner_features_Abdifatah_Galga.png)  
+![SOC Dashboard Animated Banner](https://github.com/galgalo12/your-repo-name/raw/main/assets/An_animated_digital_banner_features_Abdifatah_Galg.png)  
 *Animated banner: SOC dashboard / threat hunting vibes with cloud, shield, Python, and Sentinel icons.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/galgalo/)  
