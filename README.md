@@ -105,7 +105,7 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 </p>
 
 <p>
-  <a href="https://github.com/your-username/ip-geolocation-tool" style="text-decoration:none; color:#00ffff;">
+  <a href="https://github.com/galgalo12/Real-Time-IP-Geolocation" style="text-decoration:none; color:#00ffff;">
     🔍 Real-Time IP Geolocation Tool (Python)
   </a>
 </p>
