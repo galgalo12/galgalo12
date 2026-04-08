@@ -96,16 +96,7 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
   <a href="https://github.com/galgalo12/How-to-Create-an-Analytics-Rule-in-Microsoft-Sentinel-Detection-Rule-Configuration-" style="text-decoration:none; color:#00ffff;">Microsoft Sentinel Analytics Rule Creation</a><br>
   <a href="https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity" style="text-decoration:none; color:#00ffff;">Azure Sentinel Network Visualization Workbook</a><br>
 
- ### 📈 Python Automation
-
-<p>
-  <a href="https://github.com/galgalo12/Cyber-security-Python-Automation-/tree/main" style="text-decoration:none; color:#00ffff;">
-    🔐 Python Cybersecurity Automation
-  </a>
-</p>
-
-<p>
-  <a ### 📈 Python Automation
+### 📈 Python Automation
 
 <p>
   <a href="https://github.com/galgalo12/Cyber-security-Python-Automation-/tree/main" style="text-decoration:none; color:#00ffff;">
@@ -118,8 +109,6 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
     🔍 Real-Time IP Geolocation Tool (Python)
   </a>
 </p>
-
----
 
 ## 🛠️ Tools & Technologies
 
