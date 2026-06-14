@@ -97,7 +97,10 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
   <a href="https://github.com/galgalo12/Azure-Sentinel-Workspace-Creation-Visualizing-Network-Activity" style="text-decoration:none; color:#00ffff;">Azure Sentinel Network Visualization Workbook</a><br>
  <a href="https://github.com/galgalo12/Microsoft-Entra-ID-Identity-and-Access-Management">
 Microsoft Entra ID Identity and Access Management Project
-
+   </a><br>
+<a href="https://github.com/galgalo12/Azure-SSO-Sigle-Sign-On">
+Azure Single Sign-On (SSO)
+</a><br>
 ### 📈 Python Automation
 
 <p>
