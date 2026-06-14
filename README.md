@@ -101,6 +101,7 @@ Microsoft Entra ID Identity and Access Management Project
 <a href="https://github.com/galgalo12/Azure-SSO-Sigle-Sign-On">
 Azure Single Sign-On (SSO)
 </a><br>
+  
 ### 📈 Python Automation
 
 <p>
