@@ -81,6 +81,7 @@ My work focuses on turning telemetry into **actionable detections** using **KQL,
 
 ### 🚨 Threat Hunting Labs
 <p>
+  <a href="https://github.com/galgalo12/Threat-Hunt-Report-Unauthorized-TOR-Usage-" style="text-decoration:none; color:#00ffff](https://github.com/galgalo12/MySQL-Server-Security-Monitoring-Threat-Detection-Lab-);">MySQL-Server-Security-Monitoring</a><br>
   <a href="https://github.com/galgalo12/Threat-Hunt-Report-Unauthorized-TOR-Usage-" style="text-decoration:none; color:#00ffff;">Unauthorized TOR Browser Usage Detection</a><br>
   <a href="https://github.com/galgalo12/Threat-Hunting-for-Lateral-Movement-Attacks-SOC-Lab-" style="text-decoration:none; color:#00ffff;">Lateral Movement Detection – SOC Lab</a><br>
   <a href="https://github.com/galgalo12/-Threat-Hunting-Brute-Force-Attacks-on-an-Internet-Exposed-Windows-Virtual-Machine-" style="text-decoration:none; color:#00ffff;">Brute Force on Internet-Exposed VM</a><br>
